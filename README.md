@@ -13,8 +13,8 @@
 ---
 
 ### 📊 GitHub Stats
-![Vaibhavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaibhavi49&show_icons=true&theme=radical)   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vaibhavi49&theme=radical) 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vaibhavi49&theme=radical)
+
 
 ---
 
