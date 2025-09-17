@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋 I'm Vaibhavi  
 
-<!--
-**Vaibhavi49/Vaibhavi49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Currently learning: **DSA | Machine Learning | JavaScript**  
+📫 Reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/vaibhavisri49)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies & Tools
+![Java](https://img.shields.io/badge/Code-Java-blue?logo=java)
+![Python](https://img.shields.io/badge/Code-Python-green?logo=python)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
+
+---
+
+### 📊 GitHub Stats
+![Vaibhavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaibhavi49&show_icons=true&theme=radical)   
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vaibhavi49&theme=radical) 
+
+---
+
+⚡ Fun fact: *I want to build a billion-dollar brand someday.*
