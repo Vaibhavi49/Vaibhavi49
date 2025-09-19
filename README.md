@@ -1,21 +1,38 @@
 # Hi there 👋 I'm Vaibhavi  
 
-💻 Currently learning: **DSA | Machine Learning | JavaScript**  
-📫 Reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/vaibhavisri49)
+💻 3rd-year Computer Science student passionate about problem-solving and building impactful projects.  
+🚀 Exploring **Data Structures & Algorithms (DSA)**, **Machine Learning**, and **Web Development**.  
 
 ---
 
-### 🔧 Technologies & Tools
-![Java](https://img.shields.io/badge/Code-Java-blue?logo=java)
-![Python](https://img.shields.io/badge/Code-Python-green?logo=python)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
+## 🌱 Currently Learning
+- Improving problem-solving with **DSA**   
+- Exploring **Machine Learning models** with Python  
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vaibhavi49&theme=radical)
-
+## 🔧 Technologies & Tools  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
 
 ---
 
-⚡ Fun fact: *I want to build a billion-dollar brand someday.*
+## 🚀 Projects  
+- [📘 DSA Practice](https://github.com/yourusername/dsa-practice) – Collection of solved DSA problems in Java/Python  
+
+---
+
+## 📫 Connect with Me  
+- 📧 Email: [vaibhavisri2710@gmail.com](mailto:vaibhavisri2710@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/vaibhavisri49/)  
+- 🐙 [GitHub](https://github.com/Vaibhavi49)  
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Vaibhavi49&color=blue)
