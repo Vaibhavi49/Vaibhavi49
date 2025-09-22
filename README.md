@@ -22,9 +22,6 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 
@@ -42,4 +39,8 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Vaibhavi49&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Vaibhavi49&color=blue) 
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
